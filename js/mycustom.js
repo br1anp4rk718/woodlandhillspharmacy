@@ -1,4 +1,4 @@
-$('#inline-popups, #inline-popups-1, #inline-popups-2, #inline-popups-3').magnificPopup({
+$('#inline-popups, #inline-popups-1, #inline-popups-2, #inline-popups-3, #inline-popups-4').magnificPopup({
   delegate: 'a',
   removalDelay: 500, //delay removal by X to allow out-animation
   callbacks: {
