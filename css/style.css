@@ -2800,3 +2800,24 @@ h4 {
    max-width: 650px; 
   }
 }
+
+
+#test-popup li:first-child {
+
+	font-size:22px;
+	text-align:center;
+	padding-bottom:2em;
+}
+
+#test-popup li {
+
+	list-style-type:none;
+}
+
+.inner {
+
+	text-align:center;
+}
+
+
+
