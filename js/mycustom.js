@@ -7,6 +7,11 @@ $('#inline-popups, #inline-popups-1, #inline-popups-2, #inline-popups-3, #inline
     }
   },
   midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+
+
+  
+
+
 });
 
 
