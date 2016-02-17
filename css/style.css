@@ -2832,6 +2832,13 @@ ul.sdt_menu{
  font-family:"Myriad Pro", "Trebuchet MS", sans-serif;
  font-size:14px;
  width:1020px;
+     display: flex;
+    align-items: stretch; /* Default */
+    justify-content: space-between;
+    width:initial;
+
+    margin: 0;
+    padding: 0;
 }
 
 ul.sdt_menu a{
@@ -2900,7 +2907,7 @@ ul.sdt_menu li div.sdt_box a{
 
 ul.sdt_menu li span span.sdt_link{
  color:#fff;
- font-size:24px;
+ font-size:14px;
  float:left;
  clear:both;
  width:inherit;
