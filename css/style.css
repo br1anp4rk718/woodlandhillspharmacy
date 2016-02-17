@@ -2893,7 +2893,7 @@ ul.sdt_menu li span span.sdt_link,
 ul.sdt_menu li span span.sdt_descr,
 ul.sdt_menu li div.sdt_box a{
  margin-left:15px;
- text-transform:uppercase;
+ text-transform:capitalize;
  
 }
 
@@ -2903,6 +2903,7 @@ ul.sdt_menu li span span.sdt_link{
  font-size:24px;
  float:left;
  clear:both;
+ width:inherit;
 }
 ul.sdt_menu li span span.sdt_descr{
  color:#0B75AF;
