@@ -2874,6 +2874,7 @@ ul.sdt_menu li a img{
  bottom:0px;
  left:85px;
  z-index:100;
+ border-radius:50%;
 
 }
 
@@ -2911,6 +2912,7 @@ ul.sdt_menu li span span.sdt_link{
  float:left;
  clear:both;
  width:inherit;
+ margin-top:3.5em;
 }
 ul.sdt_menu li span span.sdt_descr{
  color:#0B75AF;
@@ -2952,4 +2954,10 @@ ul.sdt_menu li div.sdt_box a:hover{
 .breadcrumb li + li::before {
 
 	content:"";
+}
+
+
+ul.sdt_menu li div.sdt_box a:hover {
+
+	color:black;
 }
