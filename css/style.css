@@ -2908,7 +2908,7 @@ ul.sdt_menu li div.sdt_box a{
 
 ul.sdt_menu li span span.sdt_link{
  color:#fff;
- font-size:14px;
+ font-size:17px;
  float:left;
  clear:both;
  width:inherit;
@@ -2942,7 +2942,7 @@ ul.sdt_menu li div.sdt_box a{
  clear:both;
  line-height:30px;
  color:#0B75AF;
- font-size:12px;
+ font-size:15px;
 }
 
 
@@ -2964,3 +2964,6 @@ ul.sdt_menu li div.sdt_box a:hover {
 
 	color:black;
 }
+
+
+
