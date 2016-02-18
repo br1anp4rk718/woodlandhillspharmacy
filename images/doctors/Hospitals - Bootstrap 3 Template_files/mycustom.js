@@ -11,7 +11,7 @@ $(function() {
     .andSelf()
     .find('.sdt_wrap')
     .stop(true)
-    .animate({'top':'140px', 'opacity':'0.0'},500,'easeOutBack')
+    .animate({'top':'140px'},500,'easeOutBack')
     .andSelf()
     .find('.sdt_active')
     .stop(true)
@@ -21,7 +21,7 @@ $(function() {
     var left = '170px';
     if($elem.parent().children().length == $elem.index()+1)
      left = '-170px';
-    $sub_menu.show().animate({'bottom':left},200);
+    $sub_menu.show().animate({'left':left},200);
    }
   });
  }).bind('mouseleave',function(){
