@@ -2871,7 +2871,6 @@ ul.sdt_menu li > a{
 
 ul.sdt_menu li a img{
  border:none;
- position:absolute;
  width:0px;
  height:0px;
  bottom:0px;
@@ -2886,7 +2885,6 @@ ul.sdt_menu li span.sdt_wrap{
  top:25px;
  left:0px;
  width:170px;
- height:60px;
  z-index:15;
 }
 
@@ -2950,7 +2948,7 @@ ul.sdt_menu li div.sdt_box a{
  color:#0B75AF;
  font-size:13px;
  width: 100%;
- background-color:#fafafa;
+ background-color:rgba(255,255,255, 0.8);
 }
 
 
@@ -3000,5 +2998,11 @@ ul.sdt_menu li div.sdt_box a:hover {
     top: 0;
     z-index: 10000;
     border-radius: 0 0 0.5em 0.5em;
+}
+
+
+div.sdt_box {
+
+	margin-top:2em;
 }
 

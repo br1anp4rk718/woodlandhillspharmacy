@@ -38,7 +38,7 @@ $(function() {
     .animate({
     'width':'0px',
     'height':'0px',
-    'left':'85px'},400)
+    'left':'60px'},400)
     .andSelf()
     .find('.sdt_wrap')
     .stop(true)
