@@ -11,7 +11,7 @@ $(document).ready(function() {
 	$('#sdt_menu div.sdt_box a').on('mouseleave', function() {
 
 		$(this).css('color', '#337ab7');
-		$(this).css("background-color", "rgba(255,255,255,0.7");
+		$(this).css("background-color", "rgba(255,255,255,0.6");
 		$(this).css("font-size", "13px");
 	});
 
