@@ -21,15 +21,15 @@ $(document).ready(function() {
 
 	});
 
-	$('#sdt_menu li').hover(function() {
-		$('.compoundinfo').animate({
-			'margin-top':'15em'
-		}, 500)
-	}, function() {
-		$('.compoundinfo').css('margin-top', 'initial').animate({
-			'margin-top':'-3em'
-		}, 200)
-	});
+	// $('#sdt_menu li').hover(function() {
+	// 	$('.compoundinfo').animate({
+	// 		'margin-top':'15em'
+	// 	}, 500)
+	// }, function() {
+	// 	$('.compoundinfo').css('margin-top', 'initial').animate({
+	// 		'margin-top':'-3em'
+	// 	}, 200)
+	// });
 
 
 	// $('#sdt_menu li').on('mouseover', function() {

@@ -4,8 +4,8 @@ $(function() {
   $elem.find('img')
     .stop(true)
     .animate({
-    'width':'170px',
-    'height':'170px',
+    'width':'120px',
+    'height':'120px',
     'left':'0px'
     },400,'easeOutBack')
     .andSelf()
@@ -46,4 +46,18 @@ $(function() {
  });
 });
 
+function sticky_relocate() {
+    var window_top = $(window).scrollTop();
+    var div_top = $('#sticky-anchor').offset().top;
+    if (window_top > div_top) {
+        $('#sticky').addClass('stick');
+    } else {
+        $('#sticky').removeClass('stick');
+    }
+}
+
+$(function () {
+    $(window).scroll(sticky_relocate);
+    sticky_relocate();
+});
 

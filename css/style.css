@@ -2911,11 +2911,12 @@ ul.sdt_menu li div.sdt_box a{
 
 ul.sdt_menu li span span.sdt_link{
  color:#fff;
- font-size:17px;
+ font-size:13px;
  float:left;
  clear:both;
  width:inherit;
- margin-top:3.5em;
+ font-weight:100;
+ 
 }
 ul.sdt_menu li span span.sdt_descr{
  color:#0B75AF;
@@ -2936,12 +2937,12 @@ ul.sdt_menu li div.sdt_box{
  top:85px;
  left:0px;
  display:none;
- background:#000;
+ 
  margin-top:2em;
  margin-bottom:2em;
  z-index:9999;
  max-height:600px;
- background-color:white;
+ background-color:transparent !important;
 }
 ul.sdt_menu li div.sdt_box a{
  float:left;
@@ -2950,7 +2951,7 @@ ul.sdt_menu li div.sdt_box a{
  color:#0B75AF;
  font-size:15px;
  width: 100%;
- background-color:white;
+ background-color:#fafafa;
 }
 
 
@@ -2987,4 +2988,18 @@ ul.sdt_menu li div.sdt_box a:hover {
 }
 
 
+#sticky {
+    
+    width: 100%;
+    
+    color: #fff;
+    font-size: 2em;
+    border-radius: 0.5ex;
+}
+#sticky.stick {
+    position: fixed;
+    top: 0;
+    z-index: 10000;
+    border-radius: 0 0 0.5em 0.5em;
+}
 
