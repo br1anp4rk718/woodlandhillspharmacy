@@ -4,8 +4,8 @@ $(function() {
   $elem.find('img')
     .stop(true)
     .animate({
-    'width':'120px',
-    'height':'120px',
+    'width':'100px',
+    'height':'100px',
     'left':'0px'
     },400,'easeOutBack')
     .andSelf()
