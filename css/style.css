@@ -2838,7 +2838,7 @@ ul.sdt_menu{
      display: flex;
     align-items: stretch; /* Default */
     justify-content: space-between;
-    width:initial;
+   	max-width:1200px;
 
     margin: 0;
     padding: 0;
@@ -2934,12 +2934,11 @@ ul.sdt_menu li div.sdt_box{
  width:170px;
  overflow:visible;
  height:170px;
- top:85px;
+ top:60px;
  left:0px;
  display:none;
  
- margin-top:2em;
- margin-bottom:2em;
+
  z-index:9999;
  max-height:600px;
  background-color:transparent !important;
@@ -2949,7 +2948,7 @@ ul.sdt_menu li div.sdt_box a{
  clear:both;
  line-height:30px;
  color:#0B75AF;
- font-size:15px;
+ font-size:13px;
  width: 100%;
  background-color:#fafafa;
 }
