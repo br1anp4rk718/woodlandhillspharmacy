@@ -2931,7 +2931,7 @@ ul.sdt_menu li div.sdt_box{
  display:block;
  position:absolute;
  width:170px;
- overflow:scroll;
+ overflow:visible;
  height:170px;
  top:85px;
  left:0px;
@@ -2939,6 +2939,9 @@ ul.sdt_menu li div.sdt_box{
  background:#000;
  margin-top:2em;
  margin-bottom:2em;
+ z-index:9999;
+ max-height:600px;
+ background-color:white;
 }
 ul.sdt_menu li div.sdt_box a{
  float:left;
@@ -2946,6 +2949,8 @@ ul.sdt_menu li div.sdt_box a{
  line-height:30px;
  color:#0B75AF;
  font-size:15px;
+ width: 100%;
+ background-color:white;
 }
 
 
