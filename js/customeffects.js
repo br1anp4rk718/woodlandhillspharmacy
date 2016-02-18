@@ -12,7 +12,7 @@ $(document).ready(function() {
 
 		$(this).css('color', '#337ab7');
 		$(this).css("background-color", "rgba(255,255,255,0.6");
-		$(this).css("font-size", "13px");
+		$(this).css("font-size", "15px");
 	});
 
 
