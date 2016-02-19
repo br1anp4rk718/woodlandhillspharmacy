@@ -2834,11 +2834,10 @@ ul.sdt_menu{
  list-style: none;
  font-family: 'Lato', sans-serif;
  font-size:14px;
- width:1020px;
+ width:100%;
      display: flex;
     align-items: stretch; /* Default */
     justify-content: space-between;
-    width:initial;
 
     margin: 0;
     padding: 0;
@@ -2852,14 +2851,16 @@ ul.sdt_menu a{
 
 ul.sdt_menu li{
  float:left;
- width:170px;
+ width:16%;
  height:85px;
  position:relative;
  cursor:pointer;
+ 
 }
 
 ul.sdt_menu li > a{
- position:absolute;
+ position:relative;
+ display:inline-block;
  top:0px;
  left:0px;
  width:170px;
@@ -2902,7 +2903,7 @@ ul.sdt_menu li span.sdt_active{
 ul.sdt_menu li span span.sdt_link,
 ul.sdt_menu li span span.sdt_descr,
 ul.sdt_menu li div.sdt_box a{
- margin-left:15px;
+
  text-transform:capitalize;
  
 }
@@ -2910,7 +2911,7 @@ ul.sdt_menu li div.sdt_box a{
 
 ul.sdt_menu li span span.sdt_link{
  color:#fff;
- font-size:15px;
+ font-size:1vw;
  float:left;
  clear:both;
  width:inherit;
