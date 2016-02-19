@@ -28,7 +28,7 @@ $(function() {
   var $elem = $(this);
   var $sub_menu = $elem.find('.sdt_box');
   if($sub_menu.length)
-   $sub_menu.hide().css('left','0px');
+   $sub_menu.hide().css('left','35px');
  
   $elem.find('.sdt_active')
     .stop(true)
@@ -38,7 +38,7 @@ $(function() {
     .animate({
     'width':'0px',
     'height':'0px',
-    'left':'60px'},400)
+    'left':'85px'},400)
     .andSelf()
     .find('.sdt_wrap')
     .stop(true)
