@@ -3009,3 +3009,15 @@ div.sdt_box {
 	margin-top:2em;
 }
 
+#sdt_menu div.sdt_box a:first-child {
+
+	border-top-left-radius: 80%;
+	border-top-right-radius: 80%;
+}
+
+#sdt_menu div.sdt_box a:last-child {
+
+	border-bottom-left-radius: 80%;
+	border-bottom-right-radius: 80%;
+}
+
