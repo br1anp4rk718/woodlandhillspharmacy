@@ -3021,5 +3021,13 @@ div.sdt_box {
 	margin: 3em 3em;
 }
 
+/*#sticky {
+    display: none;    
+}*/
 
+@media only screen and (max-width: 767px) {
+    #sticky {
+        display: none;   
+    }
+}
 
