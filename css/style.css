@@ -3031,3 +3031,10 @@ div.sdt_box {
     }
 }
 
+@media only screen and (max-width: 767px) {
+    .main-banner {
+        background-size:contain !important;
+        height:200px !important;   
+    }
+}
+
