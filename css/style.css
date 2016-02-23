@@ -3094,6 +3094,7 @@ th:first-child {
 th:last-child {
   border-top-right-radius:3px;
   border-right:none;
+  width: 35%;
 }
   
 tr {
@@ -3206,5 +3207,5 @@ li .buybuttons:hover {
 
 .col-sm-5.col-xs-12 {
 
-	width:33%;
+	
 }
