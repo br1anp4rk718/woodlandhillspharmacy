@@ -3125,7 +3125,7 @@ tr:nth-child(odd) td {
 }
  
 tr:nth-child(odd):hover td {
-  background:rgba(0,155,219,0.2);
+  background:#009bdb;
 }
 
 tr:last-child td:first-child {
