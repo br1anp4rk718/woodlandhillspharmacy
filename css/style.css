@@ -3212,3 +3212,12 @@ li .buybuttons:hover {
 	background-size:cover;
 	height:600px;
 }
+
+.main-banner.three.dentistrybanner {
+
+	background:url(../images/banners/dentistbannerimage.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:600px;
+}
+
