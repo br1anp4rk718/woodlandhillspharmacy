@@ -3205,7 +3205,10 @@ li .buybuttons:hover {
 }
 
 
-.col-sm-5.col-xs-12 {
+.main-banner.three.biotoxin {
 
-
+	background:url(../images/banners/biotoxinbannerimage.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:600px;
 }
