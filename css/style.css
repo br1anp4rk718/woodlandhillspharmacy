@@ -3166,6 +3166,7 @@ th.text-right {
 
 td.text-left {
   text-align: left;
+  list-style-type: none;
 }
 
 td.text-center {
@@ -3189,4 +3190,10 @@ li .buybuttons {
 li .buybuttons:hover {
 
 	color:white;
+}
+
+.tableprice {
+
+	padding-left: 0px;
+    text-align: center;
 }
