@@ -356,10 +356,10 @@ h6 { font-size: 16px; }
 		background: url(../images/banners/banner-img2.jpg) center top;
 	}	
 	.main-banner.three {
-		background: url(../images/banners/aestheticsbanner.jpg) center top;
+		background: url(../images/banners/aestheticsbannerimage.jpg) center top;
 		background-repeat:no-repeat;
 		background-size:100% 100%;
-		height:500px;
+		height:600px;
 	}	
 	.main-banner.four {
 		background: url(../images/banners/banner-img4.jpg) center top;
