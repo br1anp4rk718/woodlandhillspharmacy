@@ -347,7 +347,10 @@ h6 { font-size: 16px; }
 	padding-bottom: 70px;
 }
 	.main-banner.one {
-		background: url(../images/banners/banner-img1.jpg) center top;
+		background: url(../images/banners/group1.jpg) center top;
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+		height:500px;
 	}	
 	.main-banner.two {
 		background: url(../images/banners/banner-img2.jpg) center top;
