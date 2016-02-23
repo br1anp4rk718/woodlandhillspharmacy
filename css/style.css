@@ -3179,7 +3179,7 @@ td.text-right {
 
 li .buybuttons {
 
-	width: 50px;
+	width: 75%;
     height: auto;
     margin-left: auto;
     color:#009bdb;
@@ -3196,4 +3196,15 @@ li .buybuttons:hover {
 
 	padding-left: 0px;
     text-align: center;
+}
+
+.tableprice li {
+
+	text-align: left;
+}
+
+
+.col-sm-5.col-xs-12 {
+
+	width:33%;
 }
