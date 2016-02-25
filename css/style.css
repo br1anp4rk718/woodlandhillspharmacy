@@ -207,7 +207,7 @@ h6 { font-size: 16px; }
 	#nav .navbar-brand {
 		padding: 33px 0 0;
 		color: #009bdb;
-		font-size: 30px;
+		
 		font-weight: 500;
 		height: auto;
 		line-height: normal;
@@ -1343,6 +1343,7 @@ ul#doctors-grid {
 		padding-left: 20px;
 		padding-right: 20px;
 		color: #8d8d8d;
+		    text-align: justify;
 	}
 		.news-post h4 {
 			margin-top: 30px;
@@ -1359,8 +1360,7 @@ ul#doctors-grid {
 		.news-post .post-meta {
 			margin: 0 -30px 20px -30px;
 			padding: 0 20px;
-			border: solid #ebebeb;
-			border-width: 1px 0;
+			
 		}
 			.news-post .post-meta li {
 				margin-left: 10px;
@@ -3240,4 +3240,26 @@ li .buybuttons:hover {
 
 		width:30%;
 	}
+}
+
+
+.askapharmacistimages  {
+
+	float: left;
+    margin: 5em 5em;
+    border:none !important;
+}
+
+
+.news-post strong {
+
+	color:#009bdb;
+}
+
+.askapharmacist-banner {
+
+	background: url(../images/doctors/customer.jpg) !important; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
 }
