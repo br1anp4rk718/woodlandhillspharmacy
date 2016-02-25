@@ -1194,8 +1194,8 @@ ul#doctors-grid {
 		border-bottom: 1px solid #ebebeb;
 	}
 		.panel-profile > .panel-heading > .panel-title {
-			margin-top: 30px;
-			margin-bottom: 5px;
+			margin-top: 10px;
+			margin-bottom: 10px;
 			font-size: 18px;
 			font-weight: bold;
 		}
@@ -3232,4 +3232,12 @@ li .buybuttons:hover {
 .img-responsive.img-center-sm{
 
 	border: 1px solid #ebebeb;
+}
+
+
+@media (min-width: 768px) {
+	.col-sm-5 {
+
+		width:30%;
+	}
 }
