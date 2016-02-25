@@ -348,7 +348,7 @@ h6 { font-size: 16px; }
 }
 	.main-banner.one {
 		background: url(../images/gallery/group2.jpg) center top;
-		background-size:contain;
+		background-size:cover;
 		background-repeat:no-repeat;
 		height:600px;
 	}	
@@ -366,6 +366,9 @@ h6 { font-size: 16px; }
 	}	
 	.main-banner.five {
 		background: url(../images/doctors/contactphoto.jpg) center top;
+		background-repeat: no-repeat;
+    	background-size: cover;
+    	height: 565px;
 	}	
 	.main-banner.six {
 		background: url(../images/banners/banner-img6.jpg) center top;
