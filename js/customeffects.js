@@ -46,7 +46,8 @@ $(document).ready(function() {
 	// });
 
 	$(".menu-collapsed").click(function() {
-  $(this).toggleClass("menu-expanded");
-});
+  		$(this).toggleClass("menu-expanded");
+  		$(this).find('a').css('color', 'white');
+	});
 	
 })

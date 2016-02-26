@@ -106,6 +106,7 @@ body {
 .menu-expanded a {
 
   font-size:16px;
+
 }
 
 .menu-collapsed a {
@@ -113,6 +114,7 @@ body {
   height:0px;
   width:0px;
   overflow:hidden;
+  color:transparent;
 }
 /*h1 {
   font-size:3em;
@@ -132,5 +134,6 @@ p {
 .bar {
 
   background-color:#009bdb;
-  top:100px;
+  top:50%;
+
 }
