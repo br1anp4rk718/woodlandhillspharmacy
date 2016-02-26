@@ -45,5 +45,8 @@ $(document).ready(function() {
 	// 	$('.compoundinfo').animate({'margin-top':'initial'}, 500);
 	// });
 
+	$(".menu-collapsed").click(function() {
+  $(this).toggleClass("menu-expanded");
+});
 	
 })
