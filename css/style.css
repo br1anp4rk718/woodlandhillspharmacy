@@ -950,7 +950,9 @@ h6 { font-size: 16px; }
 	}
 		#accordion-faqs .panel-heading {
 			padding: 15px 30px;
-			background-color: #009bdb;
+			background-color: #f1f1f1;
+			width: 100%;
+    		text-align: center;
 		}
 		#accordion-faqs .panel-heading.active {
 			background-color: #444;
@@ -962,7 +964,7 @@ h6 { font-size: 16px; }
 			#accordion-faqs .panel-title a, 
 			#accordion-faqs .panel-title a:hover, 
 			#accordion-faqs .panel-title a:focus {
-				color: #fff;
+				color: black;
 			}
 		#accordion-faqs .panel-body {
 			padding: 30px 35px 20px;

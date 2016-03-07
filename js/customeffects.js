@@ -49,5 +49,7 @@ $(document).ready(function() {
   		$(this).toggleClass("menu-expanded");
   		$(this).find('a').css('color', 'white');
 	});
+
+	$('.panel-title a span').css('display', 'none');
 	
 })
