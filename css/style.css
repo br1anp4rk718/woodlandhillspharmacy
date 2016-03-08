@@ -2832,7 +2832,7 @@ h4 {
 
 .fa-heartbeat:before {
 
-	content:url(../images/banners/whp-logo.jpg);
+	content:url(../images/banners/logo.jpg);
 }
 
 
@@ -3282,7 +3282,7 @@ li .buybuttons:hover {
 .news-post h4:first-child {
 
 	color:#009bdb;
-	font-size:18px;
+	font-size:30px;
 }
 
 
