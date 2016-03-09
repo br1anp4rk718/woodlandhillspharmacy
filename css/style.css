@@ -3298,4 +3298,7 @@ li .buybuttons:hover {
 	background-size:100% 100%;
 }
 
+.panel-heading h3, .panel-heading p.caption {
 
+	text-align:center;
+}
