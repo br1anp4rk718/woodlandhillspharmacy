@@ -51,5 +51,7 @@ $(document).ready(function() {
 	});
 
 	$('.panel-title a span').css('display', 'none');
+
+	
 	
 })
