@@ -3290,5 +3290,12 @@ li .buybuttons:hover {
 
 	background-color:white;
 	z-index:10000;
-	
 }
+
+.main-banner.othercompounds {
+
+	background:url(../images/banners/othercompound.png) center top no-repeat;
+	background-size:100% 100%;
+}
+
+
