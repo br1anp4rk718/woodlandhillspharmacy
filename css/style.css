@@ -3309,3 +3309,8 @@ li .buybuttons:hover {
 	max-width: 99% !important;
 	min-height:239px;
 }
+
+.fa-user-md:before {
+   
+    content:url(images/icons/compounding.png);
+}
