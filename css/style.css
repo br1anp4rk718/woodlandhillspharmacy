@@ -462,7 +462,7 @@ h6 { font-size: 16px; }
 	}
 	.welcome-area.about {
 		margin-top: 80px;
-		background: url(../images/about/about-img1.jpg) no-repeat right bottom;		
+		/*background: url(../images/about/about-img1.jpg) no-repeat right bottom;	*/	
 	}
 		.welcome-area h2, 
 		.welcome-area h3 {
