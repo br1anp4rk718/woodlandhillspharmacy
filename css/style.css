@@ -3332,4 +3332,19 @@ li .buybuttons:hover {
 	}
 }
 
+@media only screen and (max-width: 767px) {
+
+	.welcome-area p {
+
+		text-align:justify;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+
+	.main-banner {
+
+		background-size:cover !important;
+		background-repeat: no-repeat !important;
+	}
 
