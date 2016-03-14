@@ -3315,3 +3315,21 @@ li .buybuttons:hover {
    
     content: url(images/icons/compounding.png);
 }*/
+
+@media only screen and (max-width: 767px) {
+
+	#nav .navbar-brand .fa {
+
+		margin-right:-47px !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+
+	.navbar-header a {
+
+		font-size:12px !important;
+	}
+}
+
+
