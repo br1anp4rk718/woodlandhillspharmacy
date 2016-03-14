@@ -3351,9 +3351,10 @@ li .buybuttons:hover {
 
 @media only screen and (max-width: 767px) {
 
-	.descriptionimage img {
+	.descriptionimage img, .askapharmacistimages {
 
 		margin:0px 0px;
+		float:none;
 
 	}
 
