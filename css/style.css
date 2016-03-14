@@ -3347,4 +3347,15 @@ li .buybuttons:hover {
 		background-size:cover !important;
 		background-repeat: no-repeat !important;
 	}
+}
+
+@media only screen and (max-width: 767px) {
+
+	.descriptionimage img {
+
+		margin:0px 0px;
+
+	}
+
+}
 
