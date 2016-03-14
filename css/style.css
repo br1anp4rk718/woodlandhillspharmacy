@@ -358,7 +358,7 @@ h6 { font-size: 16px; }
 	.main-banner.three {
 		background: url(../images/banners/aestheticsbannerimage.jpg) center top;
 		background-repeat:no-repeat;
-		background-size:100% 100%;
+		background-size:contain;
 		height:600px;
 	}	
 	.main-banner.four {
