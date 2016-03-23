@@ -41,7 +41,7 @@ h6 { font-size: 16px; }
 .main-heading2:after {
 	content: "";
 	position: absolute;
-	width: 170px;
+	/*width: 170px;*/
 	height: 2px;
 	left: 0;
 	bottom: 0;
@@ -3291,7 +3291,7 @@ li .buybuttons:hover {
 
 .breadcrumb {
 
-	background-color:#ffffff;
+	background-color:#fafafa;
 	z-index:10000;
 }
 
@@ -3362,5 +3362,10 @@ li .buybuttons:hover {
 
 	}
 
+}
+
+.galleryheaders .nomargin-top {
+
+	text-align:center;
 }
 
