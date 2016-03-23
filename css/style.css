@@ -356,19 +356,19 @@ h6 { font-size: 16px; }
 		background: url(../images/banners/banner-img2.jpg) center top;
 	}	
 	.main-banner.three {
-		background: url(../images/banners/aestheticsbannerimage.jpg) center top;
+		background: url(../images/banners/gastro.jpg) center top;
 		background-repeat:no-repeat;
-		background-size:contain;
+		background-size:cover;
 		height:600px;
 	}	
-	.main-banner.four {
+	.main-banner.four {           
 		background: url(../images/banners/banner-img4.jpg) center top;
 	}	
 	.main-banner.five {
 		background: url(../images/doctors/contactphoto.jpg) center top;
 		background-repeat: no-repeat;
     	background-size: cover;
-    	height: 565px;
+    	height: 565px;                    
 	}	
 	.main-banner.six {
 		background: url(../images/banners/banner-img6.jpg) center top;
@@ -2833,7 +2833,7 @@ h4 {
 
 .fa-heartbeat:before {
 
-	content:url(../images/icons/logotest4.png);
+	content:url(../images/icons/logotest1.jpg);
 }
 
 
@@ -3213,7 +3213,7 @@ li .buybuttons:hover {
 
 .main-banner.three.biotoxin {
 
-	background:url(http://i.istockimg.com/image-zoom/39873668/3/380/250/stock-photo-39873668-moldy-corner.jpg);
+	background:url(../images/gallery/biotoxin.jpg);
 	background-repeat:no-repeat;
 	background-size:100% 100%;
 	height:600px;
@@ -3229,7 +3229,7 @@ li .buybuttons:hover {
 
 .main-banner.three.entbannerimage {
 
-	background:url(../images/banners/medicationsbannerimage.jpg);
+	background:url(../images/banners/ent.jpg);
 	background-repeat:no-repeat;
 	background-size:100% 100%;
 	height:600px;
@@ -3295,8 +3295,9 @@ li .buybuttons:hover {
 
 .main-banner.othercompounds {
 
-	background:url(../images/banners/othercompound.png) center top no-repeat;
+	background:url(../images/banners/othercompounds.jpg) center top no-repeat;
 	background-size:100% 100%;
+	height:500px;
 }
 
 .panel-heading h3, .panel-heading p.caption {
