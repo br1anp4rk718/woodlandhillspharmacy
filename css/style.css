@@ -368,7 +368,7 @@ h6 { font-size: 16px; }
 		background: url(../images/doctors/contactphoto.jpg) center top;
 		background-repeat: no-repeat;
     	background-size: cover;
-    	height: 565px;                    
+    	height: 500px;                    
 	}	
 	.main-banner.six {
 		background: url(../images/banners/banner-img6.jpg) center top;
@@ -2977,7 +2977,7 @@ ul.sdt_menu li div.sdt_box a:hover{
 
 .breadcrumb li + li::before {
 
-	content:"";
+	/*content:"";*/
 }
 
 
