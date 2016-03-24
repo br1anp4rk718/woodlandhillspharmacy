@@ -348,9 +348,10 @@ h6 { font-size: 16px; }
 }
 	.main-banner.one {
 		background: url(../images/gallery/group2.jpg) center top;
-		background-size:cover;
-		background-repeat:no-repeat;
-		height:600px;
+		background-size: cover;
+    	background-repeat: no-repeat;
+    	height: 500px;
+    	background-position-y: -50px;
 	}	
 	.main-banner.two {
 		background: url(../images/banners/banner-img2.jpg) center top;
