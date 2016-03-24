@@ -362,7 +362,10 @@ h6 { font-size: 16px; }
 		height:500px;
 	}	
 	.main-banner.four {           
-		background: url(../images/banners/banner-img4.jpg) center top;
+		background: url(../images/banners/faq.jpg);
+		height:500px;
+		background-repeat: no-repeat;
+    	background-size: 100% 100%;
 	}	
 	.main-banner.five {
 		background: url(../images/doctors/contactphoto.jpg) center top;
@@ -3367,5 +3370,12 @@ li .buybuttons:hover {
 .galleryheaders .nomargin-top {
 
 	text-align:center;
+}
+
+
+.faqanswers {
+
+	font-family: 'Arimo', sans-serif;
+	font-style: italic;
 }
 
