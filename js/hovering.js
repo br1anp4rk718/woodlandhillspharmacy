@@ -2,9 +2,9 @@ $(document).ready(function() {
 
 	$('.panel-title').on('mouseenter', function() {
 
-		$(this).find('a').css('color', '#009bdb');
+		$(this).find('a').css('color', 'white');
 		$(this).closest('.panel-heading').css('background-color', 'rgba(0,155,219,0.5)');
-		debugger;
+
 
 	});
 
