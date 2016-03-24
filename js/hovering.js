@@ -15,4 +15,12 @@ $(document).ready(function() {
 	});
 
 
+	$('.main-banner').on('mouseenter', function() {
+
+		$('.main-banner span:first').animate({
+			'margin-left':'1em'
+	}, 'slow');
+
+	});
+
 })

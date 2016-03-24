@@ -3382,3 +3382,8 @@ li .buybuttons:hover {
 	font-style: italic;
 }
 
+.main-banner span:first-child {
+
+	margin-left: -16em;
+}
+
