@@ -3338,7 +3338,8 @@ li .buybuttons:hover {
 
 	.navbar-header a {
 
-		font-size:12px !important;
+		font-size:11px !important;
+		margin-top: -.7em;
 	}
 }
 
