@@ -24,26 +24,6 @@ $(document).ready(function() {
 
 	});
 
-	// $('#sdt_menu li').hover(function() {
-	// 	$('.compoundinfo').animate({
-	// 		'margin-top':'15em'
-	// 	}, 500)
-	// }, function() {
-	// 	$('.compoundinfo').css('margin-top', 'initial').animate({
-	// 		'margin-top':'-3em'
-	// 	}, 200)
-	// });
-
-
-	// $('#sdt_menu li').on('mouseover', function() {
-
-	// 	$('.compoundinfo').animate({'margin-top':'15em'}, 500);
-	// });
-
-	// $('#sdt_menu li').on('mouseleave', function() {
-
-	// 	$('.compoundinfo').animate({'margin-top':'initial'}, 500);
-	// });
 
 	$(".menu-collapsed").click(function() {
   		$(this).toggleClass("menu-expanded");

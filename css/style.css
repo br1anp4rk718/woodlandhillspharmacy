@@ -3121,10 +3121,10 @@ tr {
 }
  
 tr:hover td {
-  background:#009bdb;
+/*  background:#009bdb;
   color:#FFFFFF;
   border-top: 1px solid #22262e;
-  border-bottom: 1px solid #22262e;
+  border-bottom: 1px solid #22262e;*/
 }
  
 tr:first-child {
@@ -3140,7 +3140,7 @@ tr:nth-child(odd) td {
 }
  
 tr:nth-child(odd):hover td {
-  background:#009bdb;
+  /*background:#009bdb;*/
 }
 
 tr:last-child td:first-child {
