@@ -346,6 +346,8 @@ h6 { font-size: 16px; }
 	padding-top: 130px;
 	padding-bottom: 70px;
 }
+
+/*Banner image for about.html */
 	.main-banner.one {
 		background: url(../images/gallery/group2.jpg) center top;
 		background-size: cover;
@@ -356,18 +358,22 @@ h6 { font-size: 16px; }
 	.main-banner.two {
 		background: url(../images/banners/banner-img2.jpg) center top;
 	}	
+
+	/*banner image for rheumatic.html*/
 	.main-banner.three {
 		background: url(../images/banners/rheumatic.jpg) center top;
 		background-repeat:no-repeat;
 		background-size:100% 100%;
 		height:500px;
 	}	
+	/*banner image for faq.html*/
 	.main-banner.four {           
 		background: url(../images/banners/faq.jpg);
 		height:500px;
 		background-repeat: no-repeat;
     	background-size: 100% 100%;
 	}	
+	/*banner image for contact.html*/
 	.main-banner.five {
 		background: url(../images/doctors/contactphoto.jpg) center top;
 		background-repeat: no-repeat;
@@ -3221,6 +3227,7 @@ li .buybuttons:hover {
 
 .main-banner.three.biotoxin {
 
+	/*biotoxin banner image*/
 	background:url(../images/gallery/biotoxin.jpg);
 	background-repeat:no-repeat;
 	background-size:100% 100%;
@@ -3229,6 +3236,7 @@ li .buybuttons:hover {
 
 .main-banner.three.dentistrybanner {
 
+	/*dentist banner image*/
 	background:url(../images/banners/dentistbannerimage.jpg);
 	background-repeat:no-repeat;
 	background-size:100% 100%;
@@ -3237,6 +3245,7 @@ li .buybuttons:hover {
 
 .main-banner.three.entbannerimage {
 
+	/* ENT banner image*/
 	background:url(../images/banners/ent.jpg);
 	background-repeat:no-repeat;
 	background-size:100% 100%;
@@ -3273,6 +3282,7 @@ li .buybuttons:hover {
 
 .askapharmacist-banner {
 
+	/*askapharmacist banner image*/
 	background: url(../images/doctors/customer.jpg) !important; 
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -3303,6 +3313,7 @@ li .buybuttons:hover {
 
 .main-banner.othercompounds {
 
+	/*othercompounds banner image*/
 	background:url(../images/banners/othercompounds.jpg) center top no-repeat;
 	background-size:100% 100%;
 	height:500px;
@@ -3405,6 +3416,7 @@ li .buybuttons:hover {
 
 .main-banner.ten {
 
+	/*gastroenterology banner image*/
 	background:url(../images/banners/gastro.jpg);
 	background-repeat:no-repeat;
 	background-size:100% 100%;
