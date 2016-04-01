@@ -3479,3 +3479,55 @@ li .buybuttons:hover {
 	}
 }
 
+@media only screen and (max-width: 767px) {
+	
+	.main-heading2, .main-heading1 {
+
+		text-align:center;
+
+	}
+}
+
+@media only screen and (max-width: 767px) {
+
+	.welcome-area, .medical-services {
+
+		margin-top:0px;
+
+	}
+}
+
+
+@media only screen and (max-width: 767px) {
+
+	.aboutusmobile {
+
+		padding-bottom:0px !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+
+	.aboutusmobile ul li {
+
+		text-align:center;
+	}
+
+}
+
+
+@media only screen and (max-width: 767px) {
+	
+	.profile-details h4, .profile-details h5 {
+
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+
+	.submitbutton {
+
+		text-align:center;
+	}
+}
