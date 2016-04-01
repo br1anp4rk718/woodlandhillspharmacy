@@ -3470,5 +3470,12 @@ li .buybuttons:hover {
 		font-size:14px;
 	}
 }
+
+@media only screen and (max-width: 767px) {
+
+	.news-post h4:first-child {
+
+		text-align: center;
 	}
+}
 
