@@ -3545,7 +3545,17 @@ li .buybuttons:hover {
 .askapharmacistheader {
 
 	margin-bottom:0px;
-	
+
+}
+
+
+@media only screen and (max-width: 767px) {
+
+	.profile-details .main-heading2 {
+
+		padding-bottom:0px;
+		margin-bottom:0px;
+	}
 }
 
 
