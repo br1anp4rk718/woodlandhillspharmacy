@@ -363,8 +363,8 @@ h6 { font-size: 16px; }
 	.main-banner.three {
 		background: url(../images/banners/rheumatic.jpg) center top;
 		background-repeat:no-repeat;
-		background-size:100% 100%;
-		height:500px;
+		background-size:cover;
+		height:600px;
 	}	
 	/*banner image for faq.html*/
 	.main-banner.four {           
@@ -3243,8 +3243,9 @@ li .buybuttons:hover {
 	/*dentist banner image*/
 	background:url(../images/banners/dentistbannerimage.jpg);
 	background-repeat:no-repeat;
-	background-size:100% 100%;
-	height:500px;
+	background-size:cover;
+	height:600px;
+	background-position-y: -75px;
 }
 
 .main-banner.three.entbannerimage {
@@ -3320,8 +3321,8 @@ li .buybuttons:hover {
 
 	/*othercompounds banner image*/
 	background:url(../images/banners/frontpagebannerimage3.jpg) center top no-repeat;
-	background-size:100% 100%;
-	height:500px;
+	background-size: cover;
+    height: 600px;	
 }
 
 .panel-heading h3, .panel-heading p.caption {
@@ -3424,8 +3425,8 @@ li .buybuttons:hover {
 	/*gastroenterology banner image*/
 	background:url(../images/banners/gastro.jpg);
 	background-repeat:no-repeat;
-	background-size:100% 100%;
-	height:500px;
+	background-size: cover;
+    height: 600px;
 }
 
 
